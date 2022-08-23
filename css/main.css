@@ -48,6 +48,9 @@ body {
   text-align: center;
 }
 /* donate today sec=================================================== */
+.donate-today-sec {
+  padding: 160px 0px;
+}
 .donate-today-h1 {
   font-size: 40px;
   text-align: center;
@@ -106,4 +109,68 @@ body {
 .horizontal-line {
   width: 600px;
   color: #dddd;
+  margin-bottom: 20px;
+}
+/* donate plan sec====================================================== */
+.donate-plan {
+  padding: 60px 0px;
+}
+.donate-plan-each {
+  width: 300px;
+  background-color: #edf5f6;
+  padding: 25px;
+  border-radius: 5px;
+}
+.donate-plan-each p {
+  text-align: left;
+}
+.donate-plan-items {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 40px 180px;
+}
+.bg2 {
+  background-color: #ffeeee;
+}
+.bg3 {
+  background-color: #fff4d6;
+}
+/* their lives sec=================================================== */
+.their-lives-sec {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 100px 200px;
+  align-items: center;
+}
+.their-lives-left {
+  width: 50%;
+  margin: 30px;
+}
+.their-lives-left h1 {
+  text-align: left;
+}
+.their-lives-left img {
+  width: 80%;
+  border-radius: 10px;
+}
+.their-lives-right {
+  width: 50%;
+}
+.main-bg-btn {
+  background-color: #dddd;
+}
+/* update sec============================================================ */
+.update-field {
+  display: flex;
+  justify-content: center;
+  background-color: #fff4d6;
+  margin: 40px 300px;
+  text-align: center;
+  height: 260px;
+  align-items: center;
+}
+.update-field input {
+  border: none;
+  background-color: #dddd;
+  padding: 15px 60px;
 }
