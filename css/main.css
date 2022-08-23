@@ -174,3 +174,12 @@ body {
   background-color: #dddd;
   padding: 15px 60px;
 }
+/* footer-sec===================================================== */
+.footer-sec {
+  text-align: center;
+  background-color: #0b0d17;
+  padding: 40px 40px;
+}
+.footer-sec h1 {
+  color: #ff5959;
+}
